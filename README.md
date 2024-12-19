@@ -12,7 +12,18 @@ A guide on using Firefox as private internet browser on Windows 11.
 
 This guide has been written to help people switch to **Mozilla Firefox** with the best settings, addons (extensions).
 
-Since internet browser security, privacy and adblocking has been drastically impacted recently in the following browsers
+Internet browser security, privacy and adblocking has been drastically impacted recently.
+
+The affected browers are:
+
+* Chromium-based Browsers
+    * Google Chrome
+    * Microsoft Edge
+    * Vivaldi
+    * Brave
+    * Opera
+
+
 
 Things to consider..
 
