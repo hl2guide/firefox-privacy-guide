@@ -31,7 +31,7 @@ I recommend using **Mozilla Firefox** to avoid all of the limitations, complicat
 
 # 1.1 Installing Firefox for Desktop
 
-By desktop I am using it in the loosest meaning so it includes the majority of laptops and notebooks too.
+(By desktop I am using it in the loosest meaning so it includes the majority of laptops and notebooks too.)
 
 **Mozilla Firefox** is available for _Microsoft Windows_, _macOS_ and _Linux_.
 
