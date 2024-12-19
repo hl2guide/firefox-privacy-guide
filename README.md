@@ -59,14 +59,14 @@ These are my personal suggested must-install addons:
 * Privacy Badger
 * uBlock Origin
 
-These are nice to have if you use **YouTube**:
+These are nice to have if you watch **YouTube**:
 
 * DeArrow
 * Return YouTube Dislike
 * SponsorBlock for YouTube - Skip Sponsorships
 * Video Resumer
 
-These are nice to have if you use **Twitch**:
+These are nice to have if you watch **Twitch**:
 
 * TTV LOL PRO
 * Unwanted Twitch
