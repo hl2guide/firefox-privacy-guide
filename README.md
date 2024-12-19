@@ -1,30 +1,34 @@
 # firefox-privacy-guide
 
-A guide on using Firefox as private internet browser on Windows 11.
+A guide on using **Mozilla Firefox** as private internet browser on desktop PCs.
 
 👷 Under construction, please wait for first version. 🛑
 
 # Table of Contents
 
 - [1.0 Introduction](#10-introduction)
+- [1.1 Getting Started](#11-getting-started)
 
 # 1.0 Introduction
 
-This guide has been written to help people switch to **Mozilla Firefox** with the best settings, addons (extensions).
+This guide has been written to help people switch to **Mozilla Firefox** with the best settings, addons (extensions) etc.
 
 Internet browser security, privacy and adblocking has been drastically impacted recently.
 
 The affected browers are:
 
-* Chromium-based Browsers
+* Chromium-based Browsers (most common browsers)
     * Google Chrome
     * Microsoft Edge
     * Vivaldi
     * Brave
     * Opera
 
+This is due to Google implementing a far more restictive standard on brower extensions called **manifest V3**.
 
+I recommend using **Mozilla Firefox** to avoid all of the complications and side-effects of this debacle.
 
-Things to consider..
+# 1.1 Installing Firefox for Desktop
 
-The following internet browsers that you may be currently using are currently..
+**Mozilla Firefox** is available for _Microsoft Windows_, _macOS_ and _Linux_.
+
