@@ -6,7 +6,7 @@ A guide on using Firefox as private internet browser on Windows 11.
 
 # Table of Contents
 
-- 1.0 Introduction [Introduction](#Introduction)
+- [1.0 Introduction](#Introduction)
 
 # 1.0 Introduction<a id='Introduction'></a>
 
