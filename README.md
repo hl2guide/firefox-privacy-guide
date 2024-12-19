@@ -25,13 +25,13 @@ The affected browsers are:
     * Brave
     * Opera
 
-This is due to Google implementing a far more restictive standard on internet browser extensions called **manifest V3**.
+This is due to Google implementing a far more restictive standard on internet browser extensions called **Manifest V3**.
 
 I recommend using **Mozilla Firefox** to avoid all of the limitations, complications and side-effects of this debacle.
 
 # 1.1 Installing Firefox for Desktop
 
-By desktop I am using it in the loosest meaing so it includes the majority of laptops and notebooks too.
+By desktop I am using it in the loosest meaning so it includes the majority of laptops and notebooks too.
 
 **Mozilla Firefox** is available for _Microsoft Windows_, _macOS_ and _Linux_.
 
