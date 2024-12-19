@@ -61,14 +61,14 @@ These are my personal recommended must-install addons:
 * [Privacy Badger by EFF Technologists](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 * [uBlock Origin by Raymond Hill](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
-These are nice to have if you watch **YouTube**:
+These are nice to have if you watch **YouTube.com**:
 
 * [DeArrow - Better Titles and Thumbnails on YouTube by Ajay](https://addons.mozilla.org/en-GB/firefox/addon/dearrow/)
 * [Return YouTube Dislike by Dmitry Selivanov](https://addons.mozilla.org/en-GB/firefox/addon/return-youtube-dislikes/)
 * [SponsorBlock for YouTube - Skip Sponsorships on YouTube by Ajay](https://addons.mozilla.org/en-GB/firefox/addon/sponsorblock/)
 * [Video Resumer by Appteligent LTD](https://addons.mozilla.org/en-GB/firefox/addon/video-resumer/)
 
-These are nice to have if you watch **Twitch**:
+These are nice to have if you watch **Twitch.tv**:
 
 * [TTV LOL PRO by Younes Aassila](https://addons.mozilla.org/firefox/addon/ttv-lol-pro/)
 * [Unwanted Twitch by kwaschny.net](https://addons.mozilla.org/en-GB/firefox/addon/unwanted-twitch/)
