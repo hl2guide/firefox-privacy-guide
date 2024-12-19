@@ -8,6 +8,7 @@ A guide on using **Mozilla Firefox** as private internet browser on desktop PCs.
 
 - [1.0 Introduction](#10-introduction)
 - [1.1 Getting Started](#11-installing-firefox-for-desktop)
+- [1.2 First Run](#12-first-run)
 
 # 1.0 Introduction
 
@@ -38,7 +39,9 @@ The official download site: https://www.mozilla.org/en-US/firefox/all/desktop-re
 
 On that page you can select a *Platform*, the appropriate *Language* and the download the installer.
 
-This guide will focus on Windows 11 since that is the platform I use. So I select `Windows 64-bit` as the platform and `English (British) - English (British)` as the language and the on the resulting page I click the big blue `Download Now` button.
+This guide will focus on Windows 11 since that is the platform I use.
+
+So as an example I select `Windows 64-bit` as the platform and `English (British) - English (British)` as the language and the on the resulting page I click the big blue `Download Now` button. I run the file once downloaded.
 
 📝 Note: If you use another platform please refer to the install instructions on Firefox's website.
 
