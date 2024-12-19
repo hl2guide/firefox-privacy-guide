@@ -61,15 +61,15 @@ These are my personal suggested must-install addons:
 
 These are nice to have if you watch **YouTube**:
 
-* DeArrow
-* Return YouTube Dislike
-* SponsorBlock for YouTube - Skip Sponsorships
-* Video Resumer
+* [DeArrow - Better Titles and Thumbnails on YouTube by Ajay](https://addons.mozilla.org/en-GB/firefox/addon/dearrow/)
+* [Return YouTube Dislike by Dmitry Selivanov](https://addons.mozilla.org/en-GB/firefox/addon/return-youtube-dislikes/)
+* [SponsorBlock for YouTube - Skip Sponsorships on YouTube by Ajay](https://addons.mozilla.org/en-GB/firefox/addon/sponsorblock/)
+* [Video Resumer by Appteligent LTD](https://addons.mozilla.org/en-GB/firefox/addon/video-resumer/)
 
 These are nice to have if you watch **Twitch**:
 
-* TTV LOL PRO
-* Unwanted Twitch
+* [TTV LOL PRO by Younes Aassila](https://addons.mozilla.org/firefox/addon/ttv-lol-pro/)
+* [Unwanted Twitch by kwaschny.net](https://addons.mozilla.org/en-GB/firefox/addon/unwanted-twitch/)
 
 # 1.4 Settings
 
