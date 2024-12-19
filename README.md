@@ -18,7 +18,7 @@ Internet browser security, privacy and adblocking has been drastically impacted 
 
 The affected browsers are:
 
-* Chromium-based Browsers (most common browsers)
+* All chromium-based Browsers (most common browsers)
     * Google Chrome
     * Microsoft Edge
     * Vivaldi
