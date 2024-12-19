@@ -15,7 +15,7 @@ This guide has been written to help people switch to **Mozilla Firefox** with th
 
 Internet browser security, privacy and adblocking has been drastically impacted recently.
 
-The affected browers are:
+The affected browsers are:
 
 * Chromium-based Browsers (most common browsers)
     * Google Chrome
@@ -24,7 +24,7 @@ The affected browers are:
     * Brave
     * Opera
 
-This is due to Google implementing a far more restictive standard on brower extensions called **manifest V3**.
+This is due to Google implementing a far more restictive standard on internet browser extensions called **manifest V3**.
 
 I recommend using **Mozilla Firefox** to avoid all of the limitations, complications and side-effects of this debacle.
 
@@ -38,9 +38,9 @@ The official download site: https://www.mozilla.org/en-US/firefox/all/desktop-re
 
 On that page you can select a *Platform*, the appropriate *Language* and the download the installer.
 
-This guide will focus on Windows 11 since that is the platform I use.
+This guide will focus on Windows 11 since that is the platform I use. So I select `Windows 64-bit` as the platform and `English (British) - English (British)` as the language and the on the resulting page I click the big blue `Download Now` button.
 
-If you use another platform please refer to the install instructions on Firefox's website.
+📝 Note: If you use another platform please refer to the install instructions on Firefox's website.
 
 # 1.2 First Run
 
