@@ -2,7 +2,7 @@
 
 A guide on using Firefox as private internet browser.
 
-Under construction, please wait for first version.
+👷 Under construction, please wait for first version.
 
 # Table of Contents
 
