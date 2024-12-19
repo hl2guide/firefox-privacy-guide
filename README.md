@@ -35,15 +35,17 @@ By desktop I am using it in the loosest meaing so it includes the majority of la
 
 **Mozilla Firefox** is available for _Microsoft Windows_, _macOS_ and _Linux_.
 
-The official download site: https://www.mozilla.org/en-US/firefox/all/desktop-release/
+Be sure to download it from the official download site at: https://www.mozilla.org/en-US/firefox/all/desktop-release/
 
 On that page you can select a *Platform*, the appropriate *Language* and the download the installer.
 
 This guide will focus on Windows 11 since that is the platform I use.
 
-So as an example I select `Windows 64-bit` as the platform and `English (British) - English (British)` as the language and the on the resulting page I click the big blue `Download Now` button. I run the file once downloaded.
+So as an example I select `Windows 64-bit` as the platform and `English (British) - English (British)` as the language.
 
-📝 Note: If you use another platform please refer to the install instructions on Firefox's website.
+On the resulting page click the big blue `Download Now` button and then run the file once downloaded.
+
+📝 Note: If you use another platform please refer to the install instructions on Mozilla Firefox's website.
 
 # 1.2 First Run
 
