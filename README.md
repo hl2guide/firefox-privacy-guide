@@ -6,9 +6,9 @@ A guide on using Firefox as private internet browser on Windows 11.
 
 # Table of Contents
 
-- [1.0 Introduction](#Introduction)
+- [1.0 Introduction](#10-introduction)
 
-# 1.0 Introduction<a id='Introduction'></a>
+# 1.0 Introduction
 
 This guide has been written to help people switch to **Mozilla Firefox** with the best settings, addons (extensions).
 
