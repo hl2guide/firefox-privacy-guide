@@ -26,7 +26,7 @@ The affected browers are:
 
 This is due to Google implementing a far more restictive standard on brower extensions called **manifest V3**.
 
-I recommend using **Mozilla Firefox** to avoid all of the complications and side-effects of this debacle.
+I recommend using **Mozilla Firefox** to avoid all of the limitations, complications and side-effects of this debacle.
 
 # 1.1 Installing Firefox for Desktop
 
@@ -36,4 +36,21 @@ The official download site: https://www.mozilla.org/en-US/firefox/all/desktop-re
 
 On that page you can select a *Platform*, the appropriate *Language* and the download the installer.
 
-# 1.2
+This guide will focus on Windows 11 since that is the platform I use.
+
+If you use another platform please refer to the install instructions on Firefox's website.
+
+# 1.2 First Run
+
+
+
+# 1.3 Settings
+
+
+
+# 1.4 Addons
+
+
+
+# 1.5 Conlusion
+
