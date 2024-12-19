@@ -51,11 +51,27 @@ On the resulting page click the big blue `Download Now` button and then run the 
 
 
 
-# 1.3 Settings
+# 1.3 Addons
 
+These are my personal suggested must-install addons:
 
+* Decentraleyes
+* Privacy Badger
+* uBlock Origin
 
-# 1.4 Addons
+These are nice to have if you use **YouTube**:
+
+* DeArrow
+* Return YouTube Dislike
+* SponsorBlock for YouTube - Skip Sponsorships
+* Video Resumer
+
+These are nice to have if you use **Twitch**:
+
+* TTV LOL PRO
+* Unwanted Twitch
+
+# 1.4 Settings
 
 
 
