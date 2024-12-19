@@ -77,11 +77,12 @@ These are nice to have if you watch **Twitch.tv**:
 
 
 
-# 1.5 Conlusion
-
-# FAQ
+# 1.5 FAQ
 
 ## Why not use Firefox derivitives like LibreWolf?
 
 In my experience these derivitives frequently delay updates and do not update `point updates` risking security.
+
+# 1.6 Conclusion
+
 
