@@ -1,8 +1,10 @@
 # firefox-privacy-guide
 A guide on using Firefox as private internet browser.
 
-# 1.1 [Header](#1.1)   
+# Table of Contents
+
+- 1.0 Introduction [Introduction](#Introduction)   
 
 ...some text...
 
-# 1.1 Header<a id='1.1'></a>
+# 1.0 Introduction<a id='Introduction'></a>
