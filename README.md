@@ -1,4 +1,4 @@
-# firefox-privacy-guide
+# 🔥🦊 firefox-privacy-guide
 
 A guide on using **Mozilla Firefox** as private internet browser on desktop PCs.
 
@@ -29,6 +29,8 @@ This is due to Google implementing a far more restictive standard on brower exte
 I recommend using **Mozilla Firefox** to avoid all of the limitations, complications and side-effects of this debacle.
 
 # 1.1 Installing Firefox for Desktop
+
+By desktop I am using it in the loosest meaing so it includes the majority of laptops and notebooks too.
 
 **Mozilla Firefox** is available for _Microsoft Windows_, _macOS_ and _Linux_.
 
