@@ -53,7 +53,7 @@ On the resulting page click the big blue `Download Now` button and then run the 
 
 # 1.3 Addons
 
-Addons (Firefox's name for a browser extension) extend the capabilities of the browser add features.
+Addons (Firefox's name for a browser extension) extend the capabilities of the browser adding features.
 
 These are my personal suggested must-install addons:
 
