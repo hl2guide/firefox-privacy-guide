@@ -7,7 +7,7 @@ A guide on using **Mozilla Firefox** as private internet browser on desktop PCs.
 # Table of Contents
 
 - [1.0 Introduction](#10-introduction)
-- [1.1 Getting Started](#11-getting-started)
+- [1.1 Getting Started](#11-installing-firefox-for-desktop)
 
 # 1.0 Introduction
 
@@ -32,3 +32,8 @@ I recommend using **Mozilla Firefox** to avoid all of the complications and side
 
 **Mozilla Firefox** is available for _Microsoft Windows_, _macOS_ and _Linux_.
 
+The official download site: https://www.mozilla.org/en-US/firefox/all/desktop-release/
+
+On that page you can select a *Platform*, the appropriate *Language* and the download the installer.
+
+# 1.2
