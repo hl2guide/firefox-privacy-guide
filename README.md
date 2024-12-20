@@ -76,12 +76,20 @@ These are nice to have if you watch **Twitch.tv**:
 # 1.4 Settings
 
 
+# 1.4.1 Browser Settings
 
-# 1.5 FAQ
+# 1.4.2 Addon Settings
+
+# 1.5 uBlock Origin Configuration
+
+
+
+
+# 1.6 FAQ
 
 ## Why not use Firefox derivitives like LibreWolf?
 
-In my experience these derivitives frequently delay updates and do not update `point updates` risking security.
+In my experience these derivitives frequently delay updates and do not update `point updates` therefore risking security.
 
 # 1.6 Conclusion
 
