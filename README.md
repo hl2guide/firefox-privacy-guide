@@ -7,7 +7,7 @@ A guide on using **Mozilla Firefox** as a private internet browser on desktop PC
 # Table of Contents
 
 - [1.0 Introduction](#10-introduction)
-- [1.1 Getting Started](#11-installing-firefox-for-desktop)
+- [1.1 Installing Firefox for Desktop](#11-installing-firefox-for-desktop)
 - [1.2 First Run](#12-first-run)
 
 # 1.0 Introduction
