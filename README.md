@@ -1,6 +1,6 @@
 # 🔥🦊 firefox-privacy-guide
 
-A guide on using **Mozilla Firefox** as private internet browser on desktop PCs.
+A guide on using **Mozilla Firefox** as a private internet browser on desktop PCs.
 
 👷 Under construction, please wait for first version. 🛑
 
