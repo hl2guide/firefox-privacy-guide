@@ -19,11 +19,11 @@ Internet browser security, privacy and adblocking has been drastically impacted 
 The affected browsers are:
 
 * All chromium-based Browsers (most common browsers)
-    * Google Chrome
-    * Microsoft Edge
-    * Vivaldi
-    * Brave
-    * Opera
+    * Vivaldi 💖
+    * Brave 💖
+    * Google Chrome ⛔
+    * Microsoft Edge ⛔
+    * Opera ⛔
 
 This is due to Google implementing a far more restictive standard on internet browser extensions called **Manifest V3**.
 
