@@ -20,7 +20,11 @@ The affected browsers are:
 
 * All chromium-based Browsers (most common browsers)
     * Vivaldi 💖
+        * Great customization
+        * Extra features
     * Brave 💖
+        * Built-in adblocker
+        * Annoying push for crypto-currency
     * Google Chrome ⛔
     * Microsoft Edge ⛔
     * Opera ⛔
